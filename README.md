@@ -17,3 +17,5 @@ cowsay -f 7359 sinalzin da mildade
 ```
 
 ![7359](https://media.discordapp.net/attachments/448626259140935700/808001604853694464/jOZHBv4.png "")
+
+.
